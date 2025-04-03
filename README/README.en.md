@@ -8,6 +8,8 @@
 - **Confirm Action:** After setting the time, confirm the action, and the application will take care of the rest.  
 - **Cancel Action:** If you change your mind or input an incorrect value, click "Cancel" to stop the scheduling.
 
+![Image](https://github.com/user-attachments/assets/5ea57cf1-83b6-454f-aa61-d1483d523ee0)
+
 ## Requirements
 
 1. **Python:** Make sure Python is installed on your system.  

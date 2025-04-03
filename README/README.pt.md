@@ -8,6 +8,8 @@ O "Control" é um aplicativo GUI desenvolvido em Python para agendar o desligame
 - **Confirmar Ação:** Após definir o tempo, confirme a ação e o aplicativo cuidará do restante.
 - **Cancelar Ação:** Se mudar de ideia ou inserir um valor incorreto, clique em "Cancelar" para interromper o agendamento.
 
+![Image](https://github.com/user-attachments/assets/5ea57cf1-83b6-454f-aa61-d1483d523ee0)
+
 ## Requisitos
 
 1. **Python:** Certifique-se de ter o Python instalado em seu sistema.
